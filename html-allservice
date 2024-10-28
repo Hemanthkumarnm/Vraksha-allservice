@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Services</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Professional Home Services</h1>
+        <p>Your One-Stop Solution for All Home Services</p>
+    </header>
+
+    <div class="contact-bar">
+        📞 Call us: (123) 456-7890 | 📧 Email: services@example.com
+    </div>
+
+    <main class="services">
+        <h2>Our Services</h2>
+        <div class="services-grid">
+            <div class="service-card">
+                <div class="service-icon">🧹</div>
+                <h3>House Cleaning</h3>
+                <p>Professional cleaning services for your home</p>
+                <a href="https://wa.me/1234567890?text=I'm%20interested%20in%20house%20cleaning%20services" class="book-button" target="_blank">Book Now</a>
+            </div>
+
+            <div class="service-card">
+                <div class="service-icon">🔧</div>
+                <h3>Mechanical Service</h3>
+                <p>Expert mechanical repairs and maintenance</p>
+                <a href="https://wa.me/1234567890?text=I'm%20interested%20in%20mechanical%20services" class="book-button" target="_blank">Book Now</a>
+            </div>
+
+            <div class="service-card">
+                <div class="service-icon">👕</div>
+                <h3>Laundry Service</h3>
+                <p>Quality laundry and dry cleaning services</p>
+                <a href="https://wa.me/1234567890?text=I'm%20interested%20in%20laundry%20services" class="book-button" target="_blank">Book Now</a>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2024 Professional Home Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
